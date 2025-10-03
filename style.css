@@ -4,3 +4,18 @@
     padding: 0%;
     box-sizing: border-box;
 }
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: yellow;
+    font-weight: 800;
+    padding: 10px;
+}
+ul{
+    padding: 10px;
+    background-color: black;
+    text-align: right;
+}
